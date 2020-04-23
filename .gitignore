@@ -123,3 +123,4 @@ dmypy.json
 .vscode/
 .vscode/*
 node_modules/
+Pipfile.lock
